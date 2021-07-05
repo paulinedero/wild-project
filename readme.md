@@ -1,3 +1,2 @@
 # wild-project
-How to install this project?
-All we have to do for now is clone it.
+Exercice using Git and GitHub: merge problems.
